@@ -11,4 +11,4 @@ Renamed column headers with proper punctuation.
 ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-1/blob/118b0673c7cd47ef48c25480f29ff3f9a76137bb/EL-1-raw.png)
 
 
-![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-1/blob/118b0673c7cd47ef48c25480f29ff3f9a76137bb/EL-1-raw.png)
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-1/blob/118b0673c7cd47ef48c25480f29ff3f9a76137bb/EL-1-clean.png)
